@@ -1,4 +1,4 @@
-## Olá! Eu sou o João 🖐️
+## Olá! Eu sou o João Vitor 🖐️
 
 [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
 
@@ -7,7 +7,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://instagram.com/Snarf2005)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://instagram.com/Snarf2005)
 
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=gleler21&show_icons=true&theme=dracula&count_private=true)
+![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=gleler21&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
